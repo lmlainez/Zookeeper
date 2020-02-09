@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99526b6e-b22d-4fc1-a56c-1d1ea7a45375" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_buffer_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_codec_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_common_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_handler_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_resolver_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_transport_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_jute_3_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/leader.election.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeaderElection/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeaderElection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeaderElection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeaderElection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeaderElection/src/main/java/LeaderElection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeaderElection/src/main/java/LeaderElection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYLsIRBvhxGcZlxTBA8FWKjoT6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LeaderElection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeaderElection" />
+      <module name="leader.election" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeaderElection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99526b6e-b22d-4fc1-a56c-1d1ea7a45375" name="Default Changelist" comment="" />
+      <created>1573535055163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573535055163</updated>
+      <workItem from="1581218289102" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
